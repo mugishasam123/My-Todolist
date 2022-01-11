@@ -52,7 +52,7 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 ## Authors
 
-👤 **Author**
+👤 **Mugisha Samuel**
 
 - GitHub: [@githubhandle](https://github.com/mugishasam123)
 - Twitter: [@twitterhandle](https://twitter.com/mugishasamuel42/)
